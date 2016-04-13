@@ -1,0 +1,7 @@
+{
+    "cmd": ["/home/rahul/anaconda3/bin/python", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "encoding": "utf8",
+    "path": "/home/rahul/anaconda3/bin/"
+}

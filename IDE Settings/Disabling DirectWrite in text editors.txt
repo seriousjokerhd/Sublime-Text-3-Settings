@@ -1,0 +1,4 @@
+C:\Users\AgentOfChaos\AppData\Local\atom\Update.exe --processStart atom.exe -a "--disable-direct-write"
+
+
+"C:\Program Files\Microsoft VS Code\Code.exe" --disable-direct-write

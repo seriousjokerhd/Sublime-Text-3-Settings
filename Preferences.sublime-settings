@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/MonokaiDraculaHybrid (SL).tmTheme",
+	"font_face": "MonacoB2",
+	"font_options":
+	[
+		"bold"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Seti.sublime-theme"
+}

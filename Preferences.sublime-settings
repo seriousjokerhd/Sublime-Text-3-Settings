@@ -9,5 +9,9 @@
 	[
 		"Vintage"
 	],
-	"theme": "Seti.sublime-theme"
+	"theme": "Seti.sublime-theme",
+	"Seti_bold_heading": true,
+	"Seti_bold_lable": true,
+	"bold_folder_labels": true,
+	"Seti_bold_slctdfile_labels": true,
 }

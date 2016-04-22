@@ -12,7 +12,6 @@
                 "args": [
                     "--disable=C0111",
                     "--disable=C0103",
-                    "--load-plugins=pylint_django"
                 ],
                 "disable": "",
                 "enable": "",

@@ -1,4 +1,8 @@
 {
+	"Seti_bold_heading": true,
+	"Seti_bold_lable": true,
+	"Seti_bold_slctdfile_labels": true,
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/MonokaiDraculaHybrid (SL).tmTheme",
 	"font_face": "MonacoB2",
 	"font_options":
@@ -9,9 +13,5 @@
 	[
 		"Vintage"
 	],
-	"theme": "Seti.sublime-theme",
-	"Seti_bold_heading": true,
-	"Seti_bold_lable": true,
-	"bold_folder_labels": true,
-	"Seti_bold_slctdfile_labels": true,
+	"theme": "Seti.sublime-theme"
 }
